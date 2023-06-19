@@ -8,6 +8,10 @@
 # 💫 About Me:
 🔭 I’m currently working on my Salesforce project<br><br>🌱 I’m currently learning RPA<br><br>👯 I’m looking to collaborate on collaborating in RPA and salesforce projects<br><br>🤝 I’m looking for help with RPA project<br><br>📫 How to reach me karaktulsi13@gmail.com
 
+<h2 align="left-align">🌐 Socials:</h2>
+<p align="left-align">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tulsi-kumari-812831223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.leetcode.com/tk_1302" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
