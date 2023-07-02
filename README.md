@@ -16,13 +16,15 @@
 </a>
 </p>
 
-🌱 I’m currently learning Salesforce.
+🔭 I’m currently working on my RPA bot
 
-💬 Ask me about HTML, CSS, SQL, JavaScript, ReactJS.
+🌱 I’m currently learning ReactJs
 
-📫 How to reach me: karaktulsi13@gmail.com.
+👯 I’m looking to collaborate on collaborating in ReactJs projects
 
-⚡ Fun fact: I like to explore.
+🤝 I’m looking for help with ReactJs frontend projects
+
+📫 How to reach me karaktulsi13@gmail.com
 
 
 
