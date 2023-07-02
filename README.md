@@ -5,9 +5,6 @@
 <img align="center" alt="coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 </p>
 
-<p align="left">
-<img src="http://komarev.com/ghpvc/?username=TK1302&lebel=Profile views&color=0e75b5&style=flat" alt="TK1302">
-</p>
 
 <h3 align="left-align">Connect with me:</h3>
 <p align="left-align">
